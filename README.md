@@ -26,7 +26,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/rmscoal"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rmscoal&custom_title=rmscoal's%20Contribution%20Graph&theme=ocean_dark" /></a>
+   <a href="https://github.com/rmscoal"><img alt="rmscoal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rmscoal&custom_title=RMSCoal's%20Contribution%20Graph&bg_color=212f3d&color=green&line=purple&point=green&area=true&area_color=purple&radius=4" /></a>
   <br/>
 
 <br/>
