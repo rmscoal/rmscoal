@@ -31,7 +31,7 @@
 <br/>
 
 ## Current project on focus:
-1. <b>Express-Practice</b>
+1. <b>VuePortfolio</b>
 2. <b>GTRUCryptography</b>
 
 
