@@ -32,8 +32,7 @@
 <br/>
 
 ## Current project on focus:
-1. <b>ABA</b>
-2. <b>GTRUCryptography</b>
+1. <b>GTRUCryptography</b>
 
 
 ## 🙋‍♂️ Connect with me:
