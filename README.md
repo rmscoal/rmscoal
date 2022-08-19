@@ -4,18 +4,18 @@
 
 ## :sassy_man: About Me
 
-- :school: I am a student in Universitas Gadjah Mada studying Mathematics
+- :school: I am a student in Universitas Gadjah Mada studying Mathematics.
 - :student: I am currently studying Cryptography as my undergraduate thesis and developing my skills and Web Development especially backend.
-- :computer: I am currently a Cohort in Cloud Computing Learning Path at Bangkit Academy.
+- :computer: I am currently a Cohort in Cloud Computing Learning Path at Bangkit Academy 2022.
 - :nerd_face: Love to learn new things and explore them deeply.
 
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+<!--   <p align="center">
    	<img alt="rmscoal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmscoal&custom_title=RMSCoal's%20Github Stats&theme=ocean_dark&hide=contribs,prs" height="192px"/>
-<br/>
+<br/> -->
   &nbsp;
 	<br>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmscoal&layout=compact&theme=ocean_dark" alt="rmscoal" height="192px"/>
