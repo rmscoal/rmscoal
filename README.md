@@ -6,7 +6,7 @@
 
 - :school: I am a student in Universitas Gadjah Mada studying Mathematics.
 - :student: I am currently studying Cryptography as my undergraduate thesis and developing my skills and Web Development especially backend.
-- :computer: I am currently a Cohort in Cloud Computing Learning Path at Bangkit Academy 2022.
+- :computer: I just graduated from Bangkit Academy 2022 as a Cloud Computing Cohort. I also received my Google Cloud Certified Associate Cloud Engineer. recently.
 - :nerd_face: Love to learn new things and explore them deeply.
 
 ## 📊 Github Stats
