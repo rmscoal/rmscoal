@@ -32,7 +32,7 @@
 <br/>
 
 ## Current project on focus:
-1. <b>ABA</b>
+1. <b>Doing a project on GitLab</b>
 
 
 ## 🙋‍♂️ Connect with me:
