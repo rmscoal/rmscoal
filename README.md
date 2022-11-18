@@ -4,8 +4,8 @@
 
 ## :sassy_man: About Me
 
-- :school: I am a student in Universitas Gadjah Mada studying Mathematics.
-- :student: I am doing an intern in PrivyID as Backend Engineer.
+- :school: I am a fresh graduate from Universitas Gadjah Mada majoring Mathematics.
+- :student: I am currently an intern in PrivyID as Backend Engineer.
 - :computer: I graduated from Bangkit Academy 2022 as a Cloud Computing Cohort. I also received my Google Cloud Certified Associate Cloud Engineer recently.
 - :nerd_face: Love to learn new things and explore them deeply.
 
@@ -32,7 +32,7 @@
 <br/>
 
 ## Current project on focus:
-1. <b>Doing a project on GitLab</b>
+1. <b>Doing a project on GitLab (PrivyID Internship)</b>
 
 
 ## 🙋‍♂️ Connect with me:
