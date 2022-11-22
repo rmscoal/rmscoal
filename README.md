@@ -18,7 +18,7 @@
 <br/> -->
   &nbsp;
 	<br>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmscoal&layout=compact&theme=ocean_dark" alt="rmscoal" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&layout=compact&theme=ocean_dark" alt="rmscoal" height="192px"/>
   <br/>
   </p>
 
