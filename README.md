@@ -5,7 +5,7 @@
 ## :sassy_man: About Me
 
 - :school: I am a fresh graduate from Universitas Gadjah Mada majoring Mathematics.
-- :student: I am currently an intern in Privy as Backend Engineer.
+- :student: I was an intern in Privy as a Backend Engineer.
 - :computer: I graduated from Bangkit Academy 2022 as a Cloud Computing Cohort. I also received my Google Cloud Certified Associate Cloud Engineer recently.
 - :nerd_face: Love to learn new things and explore them deeply.
 
@@ -14,13 +14,13 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-<!--   <p align="center">
+  <p align="center">
    	<img alt="rmscoal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmscoal&custom_title=RMSCoal's%20Github Stats&theme=ocean_dark&hide=contribs,prs" height="192px"/>
-<br/> -->
+<br/>
   &nbsp;
-	<br>
+<!-- 	<br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=rmscoal&layout=compact&theme=ocean_dark" alt="rmscoal" height="192px"/>
-  <br/>
+  <br/> -->
   </p>
 
 ----
@@ -33,7 +33,7 @@
 <br/>
 
 ## Current project on focus:
-1. <b>Doing a project on GitLab (Privy Internship)</b>
+1. <b>Authenticator-API</b>
 
 
 ## 🙋‍♂️ Connect with me:
