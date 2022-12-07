@@ -14,13 +14,13 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-  <p align="center">
+<!--   <p align="center">
    	<img alt="rmscoal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmscoal&custom_title=RMSCoal's%20Github Stats&theme=ocean_dark&hide=contribs,prs" height="192px"/>
-<br/>
+<br/> -->
   &nbsp;
-<!-- 	<br>
+	<br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=rmscoal&layout=compact&theme=ocean_dark" alt="rmscoal" height="192px"/>
-  <br/> -->
+  <br/>
   </p>
 
 ----
