@@ -25,9 +25,9 @@
 
 ----
 
-## Current project on focus:
-1. <b>Authenticator-API</b>
-2. <b>parkour</b>
+## Current project on focus ascendingly:
+1. <b>parkour</b>
+2. <b>Authenticator-API</b>
 
 
 ## 🙋‍♂️ Connect with me:
