@@ -3,35 +3,44 @@
 <br>
 
 ## :sassy_man: About Me
+I am a Junior Software Engineer, specializing in Backend Engineering, who loves to write clean, maintainable, scalable and performant code. I have experience in various projects including securing backend systems, designing and implementing email notification system, making a Point of Sale application, integrating a backend application with Machine Learning models, and more. My passion lies in solving complex business requirements system that is scalable and efficient that the users love. Furthermore, I like to learn new tools and technology and practicing Data Structure and Algorithm during my freetime.
 
-- :school: I am a fresh graduate from Universitas Gadjah Mada majoring Mathematics.
-- :student: I was an intern in Privy as a Backend Engineer.
-- :computer: I graduated from Bangkit Academy 2022 as a Cloud Computing Cohort. I also received my Google Cloud Certified Associate Cloud Engineer recently.
-- :nerd_face: Love to learn new things and explore them deeply.
+More about me below:
+- Nationality: **Indonesian** 🇮🇩
+- Education: Graduated from **Gadjah Mada University**, Mathematics, 2022.
+- Certifications: **Google Cloud Certified Associate Cloud Engineer** (until 2025).
+- Work Experience: **Backend Engineer @ Sinarmas** (current), **Backend Engineer Intern @ Privy**.
 
-## 📊 Github Stats
+My personal GitHub account is for learning new technologies and practicing data structures and algorithms, often done in private repositories. Meanwhile, I am actively using my company's GitHub account for day-to-day work.
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-<!--   <p align="center">
-   	<img alt="rmscoal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rmscoal&custom_title=RMSCoal's%20Github Stats&theme=ocean_dark&hide=contribs,prs" height="192px"/>
-<br/> -->
-  &nbsp;
-	<br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=rmscoal&layout=compact&theme=ocean_dark" alt="rmscoal" height="192px"/>
-  <br/>
-  </p>
+*p.s. Sometimes I like to explore the Frontend world too 😜. Just sometimes.*
+
+### Tech Stack:
+**Languages**:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<br>
+**Databases**:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<br>
+**Tools**:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+I love 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+by the way.
 
 ----
-
-## Current project on focus ascendingly:
-none 😄
-
-
-## 🙋‍♂️ Connect with me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rifky-satyana/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/rms_coal/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<h3 align="center" style=""><b>Let's connect!!</b></h3>
+<a href="mailto:rifkymanuelsatyana@gmail.com">
+    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/rifky-satyana/">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/rms_coal">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
