@@ -17,16 +17,20 @@ My personal GitHub account is for learning new technologies and practicing data 
 
 ### Tech Stack:
 **Languages**:
-<img height="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
+<img height="40" align="center" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png">
 <img height="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <br>
 **Databases**:
 <img height="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
-<img height="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
-<img height="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img height="25" align="center" src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis-white.svg?auto=webp&quality=85,75&width=300">
+<img height="25" align="center" src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress">
 <br>
-**Tools**:
+**Technologies**:
+<img height="30" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2880px-Apache_kafka_wordtype.svg.png">
+<img height="20" align="center" src="https://grpc.io/img/logos/grpc-logo.png">
+<img height="20" align="center" src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg">
+<img height="40" align="center" src="https://www.jenkins.io/images/logos/jenkins/256.png">
 <img height="40" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 
 I love 
